@@ -1,5 +1,5 @@
 # FPUC-Combiner
-Combined materials for the FPUC team and funnels it into a list based on part numbers.
+Combine materials for the FPUC team and funnels it into a list based on part numbers.
 
 First run the Material Combiner and select the excel sheet you wan to combine materials for.
 This will create a new file which you can name.
